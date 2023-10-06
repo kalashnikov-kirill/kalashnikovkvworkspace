@@ -40,5 +40,5 @@ int main() {
 	temp_finale = cosin * temp3;
 	cout << "Расчёты по формулам возвращают значения: ";
 	cout << fixed << setprecision(4) << temp_finale;
-	// финал cos(num_a^2) * (pow(num_a + num_b, 3) - cos(num_a^2 + num_b)^2 / (sqrt(sin(num_b)^2) + (cos(M_PI - num_a)^2)^3))
+	// Последнее действие: cos(num_a^2) * (pow(num_a + num_b, 3) - cos(num_a^2 + num_b)^2 / (sqrt(sin(num_b)^2) + (cos(M_PI - num_a)^2)^3))
 }
