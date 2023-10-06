@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cmath>
 
-// брал различные элементы кода с Хабра, Гитхаба и Стака, за все могу пояснить :)
+// брал различные элементы кода с Хабра, Гитхаба и Стака.
 using namespace std;
 float result = 0;
 const float PI = 3.14159265;
